@@ -1,6 +1,6 @@
 # MERN Dashboard
 
-This is a simple **MERN stack dashboard** project created for a coding assessment.
+This is a simple **MERN stack dashboard** project.
 
 ---
 
